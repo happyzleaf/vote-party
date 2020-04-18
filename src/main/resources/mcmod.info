@@ -1,0 +1,12 @@
+[
+	{
+		"modid": "voteparty",
+		"name": "VoteParty",
+		"version": "${version}",
+		"mcversion": "${mcversion}",
+		"url": "http://happyzleaf.com/",
+		"authorList": ["aust101", "happyzleaf"],
+		"requiredMods": ["pixelmon@7.2.2"],
+		"dependencies": ["pixelmon@7.2.2"]
+	}
+]
