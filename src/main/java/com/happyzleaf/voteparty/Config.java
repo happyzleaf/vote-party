@@ -70,6 +70,7 @@ public class Config {
 
 			node.getNode("data", "counter").setValue(counter);
 			if (onlyCounter) {
+				loader.save(node);
 				return;
 			}
 
